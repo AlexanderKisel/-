@@ -1,0 +1,8 @@
+D:\Саша\Рабочий стол\Труд раба\Проги\Number\Number\bin\Debug\Number.exe.config
+D:\Саша\Рабочий стол\Труд раба\Проги\Number\Number\bin\Debug\Number.exe
+D:\Саша\Рабочий стол\Труд раба\Проги\Number\Number\bin\Debug\Number.pdb
+D:\Саша\Рабочий стол\Труд раба\Проги\Number\Number\obj\Debug\Number.csproj.AssemblyReference.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\Number\Number\obj\Debug\Number.csproj.SuggestedBindingRedirects.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\Number\Number\obj\Debug\Number.csproj.CoreCompileInputs.cache
+D:\Саша\Рабочий стол\Труд раба\Проги\Number\Number\obj\Debug\Number.exe
+D:\Саша\Рабочий стол\Труд раба\Проги\Number\Number\obj\Debug\Number.pdb
